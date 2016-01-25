@@ -1,3 +1,3 @@
 # test
 测试
-sublime txt中使用git
+sublime text中使用git
